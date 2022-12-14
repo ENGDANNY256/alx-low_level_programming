@@ -5,7 +5,6 @@
  * main - prints the 9 times table, starting with 0.
  * Return: Always 0.
  */
- 
 int main(void)
 {
 	int num, mult, prod;
